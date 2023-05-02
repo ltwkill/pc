@@ -1,0 +1,37 @@
+
+ .aa { 
+font-weight:900;
+font-size:26px;
+justify-content:center;
+display:flex !important;
+border:rgba(34, 255, 0, 1) dashed 3px;
+outline:rgb(255, 117, 4) solid 18px;
+border-radius:768px 768px 768px 768px;
+border-bottom:rgba(255, 111, 0, 1) none 12px !important;
+transition-timing-function:linear;
+transition-duration:3s;
+transition-delay:3s;
+transition-property:all; 
+} 
+ .dd {
+font-weight: bolder;
+color: rgb(93, 255, 166);
+justify-content: center;
+display: flex !important;
+font-size: 51px;
+text-shadow: 16px 9px 4px rgb(0, 140, 255);
+}
+ .bb {
+font-weight: bolder;
+color: rgb(255, 0, 0);
+justify-content: center;
+display: flex !important;
+font-size: 51px;
+text-shadow: 16px 9px 4px rgb(0, 255, 21);
+}
+ .cc {
+    height: 700px !important;
+}
+ .ee {
+    height: 560px !important;
+ }
